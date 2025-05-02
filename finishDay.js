@@ -16,7 +16,7 @@ if (isNaN(finalConclusion)) {
     conclusion.innerText = `Your final progress: ${Math.round(finalConclusion)}%`;
 } else {
     unsuccess.removeAttribute("hidden"); 
-    title.innerHTML = "Keep going!";
+    title.innerHTML = "miao miao miao miaooo :(";
     conclusion.innerText = `Your final progress: ${Math.round(finalConclusion)}%`;
 }
 
